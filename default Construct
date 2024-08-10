@@ -1,0 +1,10 @@
+public class Restaurant{
+    
+    Restaurant(){
+        System.out.println(" Restaurant name is SpicyMagnet");
+    }
+    
+    public static void main(String args[]){
+        Restaurant r1 = new Restaurant();
+    }
+}
